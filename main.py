@@ -25,10 +25,10 @@ def main():
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     processor = AutoProcessor.from_pretrained(
-        "anonymous4321/model", trust_remote_code=True
+        "Samsung/TinyClick", trust_remote_code=True
     )
     model = AutoModelForCausalLM.from_pretrained(
-        "anonymous4321/model",
+        "Samsung/TinyClick",
         trust_remote_code=True,
     ).to(device)
 
