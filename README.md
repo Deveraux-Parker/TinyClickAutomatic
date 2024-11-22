@@ -2,19 +2,6 @@
 [![MIT License][license-shield]][license-url]
 [![hf][hfmodel-shield]][hfmodel-url]
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
- <!-- <a href="https://github.com/othneildrew/Best-README-Template">
-   <img src="images/logo.png" alt="Logo" width="80" height="80">
- </a> -->
- <h3 align="center">TinyClick: Single-Turn Agent for Empowering GUI Automation - Now with a tinybrowser.py application that lets you test the mouse movement system live. See the demo video below for an example.</h3>
-
- <p align="center">
-   The code for running the model from paper: TinyClick: Single-Turn Agent for Empowering GUI Automation, along with a small demo project (tinybrowser.py) that shows off how to use this project to control mouse movements on a screen.
- </p>
-
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <h3 align="center">TinyClick: Single-Turn Agent for Empowering GUI Automation - Now with a tinybrowser.py application that lets you test the mouse movement system live. See the demo video below for an example.</h3>
@@ -23,8 +10,7 @@
     The code for running the model from paper: TinyClick: Single-Turn Agent for Empowering GUI Automation, along with a small demo project (tinybrowser.py) that shows off how to use this project to control mouse movements on a screen.
   </p>
 
-<div align="center">
-  <img src="https://github.com/Deveraux-Parker/TinyClickAutomatic/raw/main/demovid.gif" alt="Demo">
+  <img src="demovid.gif" alt="Demo">
 </div>
 
 <!-- ABOUT THE PROJECT -->
