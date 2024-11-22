@@ -10,7 +10,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a> -->
 
-  <h3 align="center">TinyClick: Single-Turn Agent for Empowering GUI Automation</h3>
+  <h3 align="center">TinyClick: Single-Turn Agent for Empowering GUI Automation - Now with a tinybrowser.py application that lets you test the mouse movement system live. See the demovideo.mkv for an example.</h3>
 
   <p align="center">
     The code for running the model from paper: TinyClick: Single-Turn Agent for Empowering GUI Automation
@@ -38,6 +38,10 @@ Before running, set up the environment and install the required packages:
 To see example inference with TinyClick, run this command:<br />
 ```python3 main.py --image-path "<PATH>" --text "<COMMAND>"```
 
+To see example demo where you can move the mouse around a screen using TinyClick, run this command:<br />
+```python3 tinybrowser.py```
+
+Type in what you want the mouse to move to, like "click on the log in button" and hit enter, and the mouse will automatically move there. For now, the demo isn't actually set up to click the button, it just moves the mouse.
 
 <!-- CITATION -->
 ## Citation
