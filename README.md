@@ -12,6 +12,10 @@
 
   <h3 align="center">TinyClick: Single-Turn Agent for Empowering GUI Automation - Now with a tinybrowser.py application that lets you test the mouse movement system live. See the demovideo.mkv for an example.</h3>
 
+  <video src="demovideo.mp4" controls>
+  Your browser does not support the video tag.
+</video>
+
   <p align="center">
     The code for running the model from paper: TinyClick: Single-Turn Agent for Empowering GUI Automation, along with a small demo project (tinybrowser.py) that shows off how to use this project to control mouse movements on a screen.
   </p>
